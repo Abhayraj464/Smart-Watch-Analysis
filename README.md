@@ -1,4 +1,4 @@
-# Samrt Watch Analysis
+# Smart Watch Analysis
 
 ## Overview
 
